@@ -1,0 +1,40 @@
+.table{
+    font-size: 20px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img{
+    height:100px;
+    text-align: left;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+
+}
+.form{
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: rgb(171, 205, 205);
+    position:absolute;
+    left:44%;
+    margin: auto;
+}
+body{
+    background-color:rgb(239, 248, 223);
+}
+.table,td ,th{
+    border-style: double;
+}
+h1{
+    font-family: 'Merriweather', serif;
+}
+*{
+    font-family: 'Source Serif Pro', serif;
+}
+.msproject{
+    text-align: center;
+}
